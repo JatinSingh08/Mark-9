@@ -21,7 +21,8 @@ a {
   margin: 0;
 }
 header {
-  background: rgb(253, 78, 113);
+  /* background: rgb(208, 4, 45); */
+  background: linear-gradient(to right bottom, blue, red);
   border-radius: 2rem;
   padding: 1rem;
   margin: 1.5rem 3rem;
@@ -73,7 +74,8 @@ header {
 .movie-info {
   display: flex;
   flex-direction: column;
-  background-color: rgb(253, 78, 113);
+  /* background-color: rgb(253, 78, 113); */
+  background: linear-gradient(to right bottom, blue, red);
   border-radius: 0.5rem;
   padding: 0.5rem;
 }
